@@ -1,5 +1,5 @@
 # Juliet-NDSS18-BinaryCodeSum
-The pre-processed Juliet, NDSS18 datasets for Assembly code summarization. Example data loading code:
+The pre-processed Juliet, NDSS18 datasets for Assembly code summarization. Dataset files can be found at the release page. Example data loading code:
 
 ```python
 
